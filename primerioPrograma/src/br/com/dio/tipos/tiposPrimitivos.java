@@ -33,6 +33,38 @@ public class tiposPrimitivos {
 		short s2 = -32768;
 		//short s3 = 32768; error numero to large
 		
+		//tipo int 
+		
+		int i; // numeros de 32bits;
+		
+		//tipo long
+		
+		long l; // numeros de 64bits 
+		long l1 = 124153135L; // por letra L no final
+		
+		
+		//tipo float 
+		
+		float f; // armazena numeros reais de 32bit
+		float f1 = 24.09f; // por letra f no final
+		
+		
+		//tipo double
+		
+		double d; // numeros reais em 64bits
+		
+		double d1 = 10.23454263511142159;
+		
+		// tipo boolean
+		
+		boolean bo = true;
+		boolean bo2 = false;
+		
+		// void v; é UMA palavra reservada NAO É UM TIPO.
+		
+		
+		
+		
 		
 
 	}

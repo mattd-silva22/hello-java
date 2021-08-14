@@ -18,7 +18,7 @@ public class gatoModel {
 		System.out.println("miau!");
 	}
 
-	public String getNome() {
+	protected String getNome() {
 		return nome;
 	}
 

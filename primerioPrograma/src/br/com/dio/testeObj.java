@@ -19,6 +19,9 @@ public class testeObj {
 		
 		corGato = gato.getCor();
 		System.out.println(corGato);
+		//System.out.println(gato.getNome()); getNome esta como protegido
+		
+		// protegido so permite uso do metedo para classes dentro do mesmo pacote
 		
 		
 		
